@@ -1,0 +1,26 @@
+{
+  "name": "Meeas",
+  "version": "1.0.0",
+  "description": "Meeas wordpress theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "meeas"
+  ],
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-usemin": "latest",
+    "grunt-autoprefixer": "^1.0.0",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.4.0"
+  },
+  "author": "wang",
+  "license": "MIT"
+}
