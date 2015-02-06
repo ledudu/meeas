@@ -1,6 +1,6 @@
-# Meeas
-<h2>A wordpress theme</h2>
-Wordpress 主题
+# Meeas主题
+<h2>A wordpress theme，Meeas主题</h2>
+Wordpress 主题<br>
 主题演示首页地址/Demo theme address：
 <a href="http://meeas.asuper.com.cn/" target="_blank">http://meeas.asuper.com.cn</a>
 
