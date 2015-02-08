@@ -15,7 +15,7 @@
 </div>
 <?php echo get_option('footcode')?>
 </body>
-<?php $meeas_debug=true; if($meeas_debug):?>
+<?php $meeas_debug=false; if($meeas_debug):?>
 <script type='text/javascript' src='<?php bloginfo('template_directory'); ?>/dist/Meeas/js/main.min.js'></script>
 <?php else:?>
 <script type="text/javascript" src="<?php bloginfo('template_directory'); ?>/js/jquery.min.js"></script>

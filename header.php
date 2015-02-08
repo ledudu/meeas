@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><?php $meeas_debug = true; ?>
+<head><?php $meeas_debug = false; ?>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php include( 'inc/seo.php'); ?>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
